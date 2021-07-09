@@ -1,4 +1,4 @@
-# New Learned Algorithm ! ! !
+# 📌 New Learned Algorithm ! ! !
 
 ## 😳 공부 방법 😳
 
