@@ -1,4 +1,4 @@
-package Solve_Problem_Notes.bj_7월;
+package Solve_Problem_Notes.July;
 
 import java.util.Scanner;
 import java.math.BigInteger;
