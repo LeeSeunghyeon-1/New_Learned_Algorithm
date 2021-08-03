@@ -1,3 +1,5 @@
+package Solve_Problem_Notes.bj_7월;
+
 import java.util.Arrays;
 import java.util.Scanner;
 

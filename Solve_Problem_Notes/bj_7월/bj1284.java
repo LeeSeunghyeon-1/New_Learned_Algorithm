@@ -1,4 +1,4 @@
-package Solve_Problem_Notes;
+package Solve_Problem_Notes.bj_7월;
 
 import java.util.Scanner;
 
