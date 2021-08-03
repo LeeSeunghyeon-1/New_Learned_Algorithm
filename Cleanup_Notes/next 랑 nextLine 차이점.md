@@ -1,14 +1,14 @@
-## 📌 설명
+### 📌 설명
 
-### next
+#### next
 
 spacebar 누르면 끝
 
-### nextLine
+#### nextLine
 
 enter 누르면 끝
 
-## 📌 예시
+### 📌 예시
 
 (ex) How are you today?
 
